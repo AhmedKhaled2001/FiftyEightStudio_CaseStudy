@@ -1,7 +1,7 @@
-# FiftyEightStudio\_CaseStudy
-
 # 🛠️ Multiplayer Carpenter Game
 *Unreal Engine 5.5 – Blueprint Only*
+Started 9/07/2025 
+Submitted 14/07/2025
 
 ## 📄 Overview
 This is a multiplayer carpentry game prototype built entirely using Unreal Engine Blueprints. Players collaborate to fulfill dynamic furniture orders using a shared set of machines, a common budget, and real-time replicated item systems.
